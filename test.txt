@@ -6,3 +6,10 @@ E
 F
 G
 whiteLeftPointingIndex
+whiteUpPointingIndex
+whiteDownPointingIndex
+whiterightPointingIndex
+quarterNote
+eighthNote
+BeamedEighthNotes
+BeamedSixteenthNotes
